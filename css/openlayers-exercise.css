@@ -1,0 +1,18 @@
+.operation {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 260px;
+	height: 100%;
+	background: #dce2ad47;
+}
+.operation ul {
+	list-style-type:none;
+}
+.operation button {
+	width: 150px;
+	height: 22px;
+	margin-bottom: 2px;
+	margin-top: 2px;
+	margin-left: -15px;
+}
