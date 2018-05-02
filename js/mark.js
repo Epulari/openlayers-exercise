@@ -1,10 +1,10 @@
 /**
- * Created by Epulari T on 2017/3/30.
+ * Created by Epulari T on 3/30/2017.
  */
 
 /** add mark
  * para
- * var mark = new SetMark({
+ * var mark = new classSetMark({
         markCoordinate: [0, 0],
         markAnchor: [0.5, 0.96],
         markImage: 'https://openlayers.org/en/v4.0.1/examples/data/icon.png',
